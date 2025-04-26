@@ -1,8 +1,9 @@
-<!--
+<#
 Copyright (c) 2025 Daily Growth
 https://yourworklifedesign.blogspot.com/
 All rights reserved.
--->
+#>
+
 # Load System.Web assembly
 Add-Type -AssemblyName System.Web
 
